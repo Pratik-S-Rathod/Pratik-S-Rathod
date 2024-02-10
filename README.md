@@ -7,5 +7,5 @@
 - 💬 Ask me about: Python,PHP
 - 🌱 I’m currently learning Data Science and Data Analytics
 - 📫 How to reach me: pr646708@gmail.com
-- ![image](https://github.com/Pratik-S-Rathod/Pratik-S-Rathod/assets/121663595/abdbb138-eb9a-4843-989d-aa932a36e946)
+- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
 
