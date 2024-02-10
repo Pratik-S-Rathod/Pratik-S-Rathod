@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Data Science and Data Analytics
 - 📫 How to reach me: pr646708@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbarate&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbarate" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbarate&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksrathod" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pratik-rathod-504829250/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
