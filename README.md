@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on : Oil Price Prediction
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik-S-Rathod](https://github.com/Pratik-S-Rathod/)
 - 💬 Ask me about: Python,PHP
-- 📫 How to reach me: <b>pr646708@gmail.com</b>
+- 📫 How to reach me: pr646708@gmail.com
