@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on :  Job Portal
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik-S-Rathod](https://github.com/Pratik-S-Rathod/)
-- 💬 Ask me about: Python,PHP
+- 💬 Ask me about: PowerBi, Advance Excel
 - 🌱 I’m currently learning Data Science and Data Analytics
 - 📫 How to reach me: pr646708@gmail.com
 
